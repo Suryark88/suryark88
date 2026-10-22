@@ -1,16 +1,23 @@
-## Hi there 👋
+# Surya Ram Kumar
 
-<!--
-**Suryark88/suryark88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Operations Manager with 13+ years of experience in SaaS Service Delivery, IT Operations, and Customer Success. My interests include Generative AI, Agentic AI, and building automation solutions that simplify IT operations.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Centralized NOC Post-Patch Reporting Automation
+- SDM Intelligence Agent
+- IT Operations & Reporting Automation
+
+## Expertise
+
+SaaS Service Delivery | IT Operations | AI Automation | ITSM | Power Automate | MCP
+
+## Contact
+
+- Portfolio: https://suryark88.github.io/
+- LinkedIn: https://www.linkedin.com/in/suryanagarajan/
+- Hugging Face: https://huggingface.co/suryakumar-ai
+
+---
+
+*Open to opportunities in SaaS Operations, Service Delivery, and AI Automation.*
