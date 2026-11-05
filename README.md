@@ -1,173 +1,71 @@
-
 <div align="center">
-
-# Hi, I'm Surya Kumar N
-
-### AI Developer | Automation Engineer | IT Service Delivery Leader
-
-*Building AI-powered solutions, intelligent automations, and enterprise applications that improve operational efficiency and business value.*
-
-![Experience](https://img.shields.io/badge/Experience-13%2B_Years-1768AC?style=flat-square)
-![AI](https://img.shields.io/badge/Focus-AI_%26_Automation-1768AC?style=flat-square)
-![Service Delivery](https://img.shields.io/badge/Domain-Enterprise_IT-1768AC?style=flat-square)
-
+Hi, I'm Surya Kumar N
+AI Developer | Automation Engineer | IT Service Delivery Leader
+Building AI-powered solutions, intelligent automations, and enterprise applications that improve operational efficiency and business value.
+13+ Years of Experience · AI & Automation · Enterprise IT
 </div>
-
 ---
-
-## About Me
-
-IT professional with **13+ years of experience** in Service Delivery, AI Development, Automation, and Enterprise Platforms.
-
-I specialize in designing and developing practical, business-focused solutions that improve operational efficiency, reporting accuracy, customer experience, and enterprise productivity.
-
-## What I Do
-
-- Design and develop AI assistants and intelligent workflows.
-- Build automation solutions for IT operations, patch management, reporting, and compliance.
-- Manage NOC / Helpdesk service delivery and customer success.
-- Develop enterprise applications and integrations using Salesforce and Microsoft Power Platform.
-- Create AI-powered tools that simplify complex business processes.
-
+About Me
+IT professional with 13+ years of experience across IT service delivery, AI development, automation, and enterprise platforms. I build practical, business-focused solutions that simplify operations, improve reporting, and enhance customer experience.
+What I Do
+Design AI assistants and intelligent workflows.
+Automate patch reporting, IT operations, and compliance processes.
+Lead NOC / Helpdesk service delivery and customer success.
+Build business applications and integrations using Salesforce and Microsoft Power Platform.
 ---
-
-## Tech Stack
-
-### Programming & Development
-
+Tech Stack
+<!-- Logos are linked from public open-source icon repositories. -->
+Programming & Development
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
 </p>
-
-### Salesforce
-
+Salesforce
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="45" height="45" alt="Salesforce" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" width="54" height="54" alt="Salesforce" title="Salesforce" />
 </p>
-
-![SOQL](https://img.shields.io/badge/SOQL-0176D3?style=flat-square)
-![LWC](https://img.shields.io/badge/Lightning_Web_Components-0176D3?style=flat-square)
-![Salesforce Flow](https://img.shields.io/badge/Salesforce_Flow-0176D3?style=flat-square)
-
-### Microsoft Power Platform
-
+Salesforce Flow · SOQL · Lightning Web Components (LWC)
+Microsoft Power Platform
 <p>
-
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-
+  <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformConnectors/dev/docs/media/powerapps.svg" width="48" height="48" alt="Power Apps" title="Power Apps" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerautomate.svg" width="48" height="48" alt="Power Automate" title="Power Automate" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsharepoint.svg" width="48" height="48" alt="SharePoint" title="SharePoint" />
 </p>
-
-### AI & Automation
-
+AI & Automation
 <p>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-1768AC?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-087E8B?style=for-the-badge)
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="48" height="48" alt="OpenAI" title="OpenAI" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="48" height="48" alt="Anthropic" title="Anthropic" />
 </p>
-
-### Databases & Cloud
-
+AI Agents · Model Context Protocol (MCP) · Workflow Automation
+Data & Cloud
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" width="48" height="48" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" title="Azure" />
 </p>
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Tools & DevOps
-
+Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/servicenow.svg" width="48" height="48" alt="ServiceNow" title="ServiceNow" />
 </p>
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
-
 ---
-
-## Featured Projects
-
-### Surya AI Assistant
-
-**Personal AI Assistant | AI Integration | Automation**
-
-An AI-powered assistant designed to support career development, learning, productivity, and intelligent information retrieval.
-
-[View Live Project](https://suryark88.github.io/surya-ai-agent/)
-
+Featured Projects
+Surya AI Assistant
+Personal AI assistant supporting career development, learning, productivity, and intelligent information retrieval.
+NOVA — Service Delivery Intelligence
+AI-powered assistant designed for account reviews, root cause analysis, and operational insights. Internal enterprise project; source code not public.
+Audit Tracker — Service Delivery
+Power Apps solution for customer audits, NOC/Helpdesk service tracking, account history, and Salesforce integration. Internal enterprise project; source code not public.
+IT Reporting & Workflow Automations
+Automated patch compliance reports, post-patching notifications, and recurring operational reporting using Power Automate, Excel, and RMM data. Internal enterprise projects; implementation details private.
 ---
-
-### NOVA — Service Delivery Intelligence
-
-**AI Agents | Salesforce | Automation | Reporting**
-
-An enterprise AI assistant designed to improve service delivery operations through:
-
-- Automated customer account reviews.
-- Root Cause Analysis (RCA) assistance.
-- Salesforce and operational data integration.
-- Intelligent reporting and account insights.
-
-*Internal enterprise project — source code not publicly available.*
-
+Let's Connect
+GitHub — suryark88 · Surya AI Assistant
+<!-- Add your verified LinkedIn URL and preferred public email here. -->
 ---
-
-### Audit Tracker — Service Delivery
-
-**Microsoft Power Apps | SharePoint | Salesforce | Power BI**
-
-A business application designed to streamline service delivery audits and account management.
-
-Key capabilities include:
-
-- Centralized customer audit management.
-- NOC and Helpdesk service tracking.
-- ARR/MRR visibility.
-- Customer account history.
-- Salesforce integration and reporting.
-
-*Internal enterprise project — source code not publicly available.*
-
----
-
-### IT Reporting & Workflow Automations
-
-**Power Automate | Excel | RMM | API Integration**
-
-Designed and implemented automation workflows for IT operations and service delivery.
-
-Solutions include:
-
-- Automated weekly patch compliance reports.
-- Server and workstation patch status tracking.
-- Post-patching activity notifications.
-- Scheduled reporting and data consolidation.
-- Operational dashboards and reporting workflows.
-
-*Enterprise automation projects — implementation details are private.*
-
----
-
-## Let's Connect
-
-<p align="left">
-
-<a href="https://github.com/suryark88">
-<img src="https://img.shields.io/badge/GitHub-suryark88-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-*Building intelligent solutions through AI, automation, and enterprise technology.*
-
-</div>
+<div align="center"><i>Building intelligent solutions through AI, automation, and enterprise technology.</i></div>
