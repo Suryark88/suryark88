@@ -88,6 +88,7 @@ I specialize in designing and developing business-focused solutions that improve
 &nbsp;&nbsp;
 <img src="./logos/anthropic.png" width="52" height="52" alt="Anthropic" title="Anthropic" />
 <img src="./logos/copilotstudio.png" width="52" height="52" alt="Microsoft Copilot Studio" title="Copilot Studio" />
+<img src="./logos/mcp.webp" width="52" height="52" alt="MCP" title="MCP" />
 </p>
 
 <p>AI Agents | Model Context Protocol (MCP) | Intelligent Automation</p>
