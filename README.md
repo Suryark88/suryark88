@@ -46,7 +46,7 @@ I specialize in designing and developing business-focused solutions that improve
 <h3>Programming & Development</h3>
 
 <p align="left">
-<img src="https://www.python.org/" width="48" height="48" alt="Python" title="Python" />
+<img src="logos/python.svg" width="48" height="48" alt="Python" title="Python" />
 &nbsp;&nbsp;
 <img src="./logos/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
 &nbsp;&nbsp;
