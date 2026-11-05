@@ -125,6 +125,4 @@ I specialize in designing and developing business-focused solutions that improve
   <a href="https://github.com/suryark88"><img src="./logos/github.svg" width="45" height="45" alt="GitHub" title="GitHub" /></a>
 </p>
 
-<div align="center">
-  <i>Building intelligent solutions through AI, automation, and enterprise technology.</i>
-</div>
+
