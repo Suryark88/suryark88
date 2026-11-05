@@ -134,36 +134,39 @@ AI Agents | Model Context Protocol (MCP) | Intelligent Automation
 ---
 
 
+
 <h2>🔗 Let's Connect</h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-             width="45"
-             height="45"
-             alt="LinkedIn"
-             title="Connect on LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/suryark88">
-        <img src="./logos/github.svg"
-             width="45"
-             height="45"
-             alt="GitHub"
-             title="View my GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/suryanagarajan/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      width="45"
+      height="45"
+      alt="LinkedIn"
+      title="Connect with me on LinkedIn"
+      align="middle"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/suryark88">
+    <img
+      src="./logos/github.svg"
+      width="45"
+      height="45"
+      alt="GitHub"
+      title="Explore my GitHub projects"
+      align="middle"
+    />
+  </a>
+</p>
 
-<hr>
+<br>
 
 <div align="center">
   <i>Building intelligent solutions through AI, automation, and enterprise technology.</i>
 </div>
+
 
 
 ---
