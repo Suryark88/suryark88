@@ -1,40 +1,104 @@
 
+<div align="center">
+
+# Hi, I'm Surya Kumar N
+
+### AI Developer | Automation Engineer | IT Service Delivery Leader
+
+*Building AI-powered solutions, intelligent automations, and enterprise applications that improve operational efficiency.*
+
+![Experience](https://img.shields.io/badge/Experience-13%2B_Years-1768AC?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI_%26_Automation-1768AC?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Enterprise_IT-1768AC?style=flat-square)
+
+</div>
+
+---
+
+## About Me
+
+IT professional with **13+ years of experience** in service delivery, AI development, automation, and enterprise platforms.
+
+I develop practical, business-focused solutions that improve operations, reporting, and customer experience.
+
+## What I Do
+
+- Design and build AI assistants and intelligent workflows.
+- Automate IT operations, patch reporting, and compliance workflows.
+- Manage NOC / Helpdesk service delivery and customer success.
+- Develop enterprise applications and integrations using Salesforce and Microsoft Power Platform.
+
 ## Tech Stack
 
-### Programming & Development
+### Development
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python JavaScript HTML CSS" />
+![Development](https://skillicons.dev/icons?i=python,js,html,css&theme=dark)
 
 ### Salesforce
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="45" alt="Salesforce" />
+<img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="45" alt="Salesforce"/>
 
-![SOQL](https://img.shields.io/badge/SOQL-0176D3?style=flat-square)
-![LWC](https://img.shields.io/badge/Lightning_Web_Components-0176D3?style=flat-square)
+**SOQL | Lightning Web Components (LWC)**
 
 ### Microsoft Power Platform
 
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+<img src="https://cdn.simpleicons.org/powerapps/742774" height="45" alt="Power Apps"/> &nbsp;
+<img src="https://cdn.simpleicons.org/powerautomate/0066FF" height="45" alt="Power Automate"/> &nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" alt="Power BI"/> &nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsharepoint/0078D4" height="45" alt="SharePoint"/>
 
 ### AI & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-1768AC?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-087E8B?style=for-the-badge)
+<img src="https://cdn.simpleicons.org/openai/10A37F" height="45" alt="OpenAI"/> &nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/D4A27F" height="45" alt="Anthropic"/>
 
-### Databases & Cloud
+**AI Agents | Model Context Protocol (MCP) | Workflow Automation**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" alt="SQL Server" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" alt="Azure" />
+### Data & Cloud
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="45" alt="SQL Server"/> &nbsp;
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="45" alt="Snowflake"/>
+
+![Azure](https://skillicons.dev/icons?i=azure&theme=dark)
 
 ### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
+![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+**ServiceNow**
+
+---
+
+## Featured Projects
+
+### Surya AI Assistant
+
+Personal AI assistant supporting career development, learning, and productivity.
+
+[View Live Project](https://suryark88.github.io/surya-ai-agent/)
+
+### NOVA — Service Delivery Intelligence
+
+AI-powered service delivery assistant designed for account reviews, RCA generation, and operational intelligence.
+
+*Internal enterprise project.*
+
+### Audit Tracker — Service Delivery
+
+Power Apps-based solution for customer audits, service history, account health, and Salesforce integration.
+
+*Internal enterprise project.*
+
+### Reporting Automations
+
+Automated patch management and reporting workflows using Power Automate, Excel, and RMM integrations.
+
+*Internal enterprise projects.*
+
+---
+
+## Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-suryark88-181717?style=for-the-badge&logo=github)](https://github.com/suryark88)
+
+<!-- Add your LinkedIn profile URL and preferred public email here. -->
