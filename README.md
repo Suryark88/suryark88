@@ -87,7 +87,6 @@ I specialize in designing and developing business-focused solutions that improve
 <img src="./logos/openai.png" width="52" height="52" alt="OpenAI" title="OpenAI" />
 &nbsp;&nbsp;
 <img src="./logos/anthropic.png" width="52" height="52" alt="Anthropic" title="Anthropic" />
-<img src="./logos/copilotstudio.png" width="52" height="52" alt="Microsoft Copilot Studio" title="Copilot Studio" />
 <img src="./logos/agenticai.png" width="52" height="52" alt="AI" title="AI" />
 <img src="./logos/mcp.webp" width="52" height="52" alt="MCP" title="MCP" />
 </p>
