@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>👋 Hi, I'm Surya Kumar N</h1>
+<h1>👋 Hi, I'm Surya Kumar</h1>
 
 <h3>AI Developer | Automation Engineer | IT Service Delivery Leader</h3>
 
