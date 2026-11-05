@@ -116,29 +116,19 @@ I specialize in designing and developing business-focused solutions that improve
 ---
 
 
+
 <h2>🔗 Let's Connect</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/suryanagarajan/">
-<img src="./logos/link.png"
-     width="45"
-     height="45"
-     alt="LinkedIn"
-     title="Connect with me on LinkedIn"
-     align="middle" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/suryark88">
-<img src="./logos/github.svg"
-     width="45"
-     height="45"
-     alt="GitHub"
-     title="Explore my GitHub projects"
-     align="middle" />
-</a>
+  <a href="https://www.linkedin.com/in/suryanagarajan/"><img src="https://raw.githubusercontent.com/suryark88/suryark88/main/logos/link.png" width="45" height="45" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/suryark88"><img src="./logos/github.svg" width="45" height="45" alt="GitHub" /></a>
 </p>
 
 <br>
+
+<div align="center">
+  <i>Building intelligent solutions through AI, automation, and enterprise technology.</i>
+</div>
 
 <div align="center">
 <i>Building intelligent solutions through AI, automation, and enterprise technology.</i>
