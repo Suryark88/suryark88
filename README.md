@@ -69,34 +69,6 @@ I develop practical, business-focused solutions that improve operations, reporti
 
 ---
 
-## Featured Projects
-
-### Surya AI Assistant
-
-Personal AI assistant supporting career development, learning, and productivity.
-
-[View Live Project](https://suryark88.github.io/surya-ai-agent/)
-
-### NOVA — Service Delivery Intelligence
-
-AI-powered service delivery assistant designed for account reviews, RCA generation, and operational intelligence.
-
-*Internal enterprise project.*
-
-### Audit Tracker — Service Delivery
-
-Power Apps-based solution for customer audits, service history, account health, and Salesforce integration.
-
-*Internal enterprise project.*
-
-### Reporting Automations
-
-Automated patch management and reporting workflows using Power Automate, Excel, and RMM integrations.
-
-*Internal enterprise projects.*
-
----
-
 ## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-suryark88-181717?style=for-the-badge&logo=github)](https://github.com/suryark88)
