@@ -92,7 +92,6 @@ I specialize in designing and developing business-focused solutions that improve
 <img src="./logos/mcp.webp" width="52" height="52" alt="MCP" title="MCP" />
 </p>
 
-<p>AI Agents | Model Context Protocol (MCP) | Intelligent Automation</p>
 
 <h3>Databases & Cloud</h3>
 
