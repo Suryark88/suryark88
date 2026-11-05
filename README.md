@@ -120,7 +120,7 @@ I specialize in designing and developing business-focused solutions that improve
 
 <p align="left">
   <a href="https://www.linkedin.com/in/suryanagarajan/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/suryark88"><img src="./logos/github.svg" width="45" height="45" alt="GitHub" title="GitHub" /></a>
+  <a href="https://github.com/suryark88"><img src="./logos/github.png" width="45" height="45" alt="GitHub" title="GitHub" /></a>
 </p>
 
 
