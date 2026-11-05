@@ -104,10 +104,6 @@ I specialize in designing and developing business-focused solutions that improve
 <h3>Tools & DevOps</h3>
 
 <p align="left">
-<img src="./logos/git.svg" width="52" height="52" alt="Git" title="Git" />
-&nbsp;&nbsp;
-<img src="./logos/github.svg" width="52" height="52" alt="GitHub" title="GitHub" />
-&nbsp;&nbsp;
 <img src="./logos/vbcode.jpg" width="52" height="52" alt="Visual Studio Code" title="VS Code" />
 &nbsp;&nbsp;
 <img src="./logos/servicenow.jpg" width="52" height="52" alt="ServiceNow" title="ServiceNow" />
