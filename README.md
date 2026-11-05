@@ -26,17 +26,17 @@ IT professional with <b>13+ years of experience</b> in IT Service Delivery, AI D
 </p>
 
 <p>
-I specialize in designing and developing practical, business-focused solutions that improve operational efficiency, reporting accuracy, customer experience, and enterprise productivity.
+I specialize in designing and developing business-focused solutions that improve operational efficiency, reporting accuracy, customer experience, and enterprise productivity.
 </p>
 
 <h2>What I Do</h2>
 
 <ul>
 <li>Design and develop AI assistants and intelligent workflows.</li>
-<li>Build automation solutions for IT operations, patch management, reporting, and compliance.</li>
+<li>Automate IT operations, patch management, reporting, and compliance.</li>
 <li>Manage NOC / Helpdesk service delivery and customer success.</li>
 <li>Develop enterprise applications using Salesforce and Microsoft Power Platform.</li>
-<li>Create AI-powered tools and integrations that simplify complex business processes.</li>
+<li>Build AI-powered tools and integrations that simplify complex business processes.</li>
 </ul>
 
 ---
@@ -46,19 +46,19 @@ I specialize in designing and developing practical, business-focused solutions t
 <h3>Programming & Development</h3>
 
 <p align="left">
-<img src="python.svg" width="48" height="48" alt="Python" title="Python" />
+<img src="./logos/python.svg" width="48" height="48" alt="Python" title="Python" />
 &nbsp;&nbsp;
-<img src="javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+<img src="./logos/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
 &nbsp;&nbsp;
-<img src="html5.svg" width="48" height="48" alt="HTML5" title="HTML5" />
+<img src="./logos/html5.svg" width="48" height="48" alt="HTML5" title="HTML5" />
 &nbsp;&nbsp;
-<img src="css3.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+<img src="./logos/css3.svg" width="48" height="48" alt="CSS3" title="CSS3" />
 </p>
 
 <h3>Salesforce</h3>
 
 <p align="left">
-<img src="salesforce.svg" width="55" height="55" alt="Salesforce" title="Salesforce" />
+<img src="./logos/salesforce.svg" width="55" height="55" alt="Salesforce" title="Salesforce" />
 </p>
 
 <p>
@@ -69,19 +69,19 @@ SOQL | Lightning Web Components (LWC) | Salesforce Flow
 
 <p align="left">
 
-<img src="logos/powerapp.jpg" width="52" height="52" alt="Power Apps" title="Power Apps" />
+<img src="./logos/powerapp.jpg" width="52" height="52" alt="Power Apps" title="Power Apps" />
 &nbsp;&nbsp;
 
-<img src="logos/powerautomate.webp" width="52" height="52" alt="Power Automate" title="Power Automate" />
+<img src="./logos/powerautomate.webp" width="52" height="52" alt="Power Automate" title="Power Automate" />
 &nbsp;&nbsp;
 
-<img src="logos/powerbi.webp" width="52" height="52" alt="Power BI" title="Power BI" />
+<img src="./logos/powerbi.webp" width="52" height="52" alt="Power BI" title="Power BI" />
 &nbsp;&nbsp;
 
-<img src="logos/sharepoint.webp" width="52" height="52" alt="SharePoint" title="SharePoint" />
+<img src="./logos/sharepoint.webp" width="52" height="52" alt="SharePoint" title="SharePoint" />
 &nbsp;&nbsp;
 
-<img src="logos/copilotstudio.png" width="52" height="52" alt="Microsoft Copilot Studio" title="Copilot Studio" />
+<img src="./logos/copilotstudio.png" width="52" height="52" alt="Microsoft Copilot Studio" title="Copilot Studio" />
 
 </p>
 
@@ -89,10 +89,10 @@ SOQL | Lightning Web Components (LWC) | Salesforce Flow
 
 <p align="left">
 
-<img src="logos/openai.png" width="52" height="52" alt="OpenAI" title="OpenAI" />
+<img src="./logos/openai.png" width="52" height="52" alt="OpenAI" title="OpenAI" />
 &nbsp;&nbsp;
 
-<img src="logos/anthropic.png" width="52" height="52" alt="Anthropic" title="Anthropic" />
+<img src="./logos/anthropic.png" width="52" height="52" alt="Anthropic" title="Anthropic" />
 
 </p>
 
@@ -104,13 +104,13 @@ AI Agents | Model Context Protocol (MCP) | Intelligent Automation
 
 <p align="left">
 
-<img src="logos/sql.jpg" width="52" height="52" alt="SQL Server" title="SQL Server" />
+<img src="./logos/sql.jpg" width="52" height="52" alt="SQL Server" title="SQL Server" />
 &nbsp;&nbsp;
 
-<img src="logos/snowflake.jpg" width="52" height="52" alt="Snowflake" title="Snowflake" />
+<img src="./logos/snowflake.jpg" width="52" height="52" alt="Snowflake" title="Snowflake" />
 &nbsp;&nbsp;
 
-<img src="logos/azure.jpg" width="52" height="52" alt="Microsoft Azure" title="Microsoft Azure" />
+<img src="./logos/azure.jpg" width="52" height="52" alt="Microsoft Azure" title="Microsoft Azure" />
 
 </p>
 
@@ -118,16 +118,16 @@ AI Agents | Model Context Protocol (MCP) | Intelligent Automation
 
 <p align="left">
 
-<img src="git.svg" width="52" height="52" alt="Git" title="Git" />
+<img src="./logos/git.svg" width="52" height="52" alt="Git" title="Git" />
 &nbsp;&nbsp;
 
-<img src="github.svg" width="52" height="52" alt="GitHub" title="GitHub" />
+<img src="./logos/github.svg" width="52" height="52" alt="GitHub" title="GitHub" />
 &nbsp;&nbsp;
 
-<img src="logos/vbcode.jpg" width="52" height="52" alt="Visual Studio Code" title="VS Code" />
+<img src="./logos/vbcode.jpg" width="52" height="52" alt="Visual Studio Code" title="VS Code" />
 &nbsp;&nbsp;
 
-<img src="logos/servicenow.jpg" width="52" height="52" alt="ServiceNow" title="ServiceNow" />
+<img src="./logos/servicenow.jpg" width="52" height="52" alt="ServiceNow" title="ServiceNow" />
 
 </p>
 
@@ -137,7 +137,7 @@ AI Agents | Model Context Protocol (MCP) | Intelligent Automation
 
 <h3>🤖 Surya AI Assistant</h3>
 
-<b>Personal AI Assistant | AI Integration | Automation</b>
+<p><b>Personal AI Assistant | AI Integration | Automation</b></p>
 
 <p>
 An AI-powered assistant designed to support career development, learning, productivity, and intelligent information retrieval.
@@ -151,7 +151,7 @@ View Live Project
 
 <h3>NOVA — Service Delivery Intelligence</h3>
 
-<b>AI Agents | Salesforce | Automation | Reporting</b>
+<p><b>AI Agents | Salesforce | Automation | Reporting</b></p>
 
 <p>
 An enterprise AI assistant designed to improve service delivery operations through:
@@ -171,7 +171,7 @@ An enterprise AI assistant designed to improve service delivery operations throu
 
 <h3>Audit Tracker — Service Delivery</h3>
 
-<b>Power Apps | Salesforce | Power BI | Automation</b>
+<p><b>Power Apps | Salesforce | Power BI | Automation</b></p>
 
 <p>
 A business application designed to streamline service delivery audits and account governance.
@@ -191,7 +191,7 @@ A business application designed to streamline service delivery audits and accoun
 
 <h3>IT Reporting & Workflow Automations</h3>
 
-<b>Power Automate | Excel | RMM | API Integration</b>
+<p><b>Power Automate | Excel | RMM | API Integration</b></p>
 
 <p>
 Designed and implemented automation workflows to improve IT operations and service delivery reporting.
@@ -214,7 +214,7 @@ Designed and implemented automation workflows to improve IT operations and servi
 <p align="left">
 
 <a href="https://github.com/suryark88">
-<img src="github.svg" width="38" height="38" alt="GitHub Profile" title="GitHub Profile" />
+<img src="./logos/github.svg" width="38" height="38" alt="GitHub Profile" title="GitHub Profile" />
 </a>
 
 </p>
