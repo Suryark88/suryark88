@@ -6,7 +6,7 @@
 <h3>AI Developer | Automation Engineer | IT Service Delivery Leader</h3>
 
 <p>
-<i>Building AI-powered solutions, intelligent automations, and enterprise applications that drive operational efficiency and business value.</i>
+
 </p>
 
 <p>
